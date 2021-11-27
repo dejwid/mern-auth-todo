@@ -1,0 +1,29 @@
+body{
+  background-color: #f0f0f0;
+}
+nav{
+  text-align: center;
+}
+nav a{
+  display: inline-block;
+  padding: 15px;
+  text-decoration: none;
+  color:#333;
+}
+
+main{
+  width: 240px;
+  margin: 10px auto;
+  text-align: center;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 2px rgba(0,0,0,.1);
+}
+
+ul{
+  padding-left:0;
+}
+ul li{
+  display: block;
+}
